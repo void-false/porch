@@ -1,4 +1,3 @@
-
 [apk_settings]
 alias=
 app_icon_path=
@@ -44,14 +43,15 @@ output_path=
 [projectfiles]
 FILE_0=main.agc;-1
 FILE_1=checkcollision.agc;-1
-FILE_2=createsprites.agc;-1
-FILE_3=movebat.agc;-1
+FILE_2=movebat.agc;-1
+FILE_3=initsprites.agc;-1
+FILE_4=createshit.agc;-1
 
 [files]
-FILE_NAME_0=1;main.agc;354;0
-FILE_NAME_1=0;checkcollision.agc;337;2
-FILE_NAME_2=0;createsprites.agc;165;1
-FILE_NAME_3=0;movebat.agc;65;3
+FILE_NAME_0=1;main.agc;869;0
+FILE_NAME_1=0;checkcollision.agc;364;1
+FILE_NAME_2=0;movebat.agc;65;2
+FILE_NAME_3=0;initsprites.agc;575;3
 
 [project]
 description=

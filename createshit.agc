@@ -1,4 +1,4 @@
-createsprites:
+createshit:
 
 if current <= maxballs and mod(GetSeconds(), 2) = 1
 	ResetTimer()
